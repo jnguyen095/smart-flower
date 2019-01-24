@@ -1,0 +1,1 @@
+INSERT INTO "users" (UserId, Username, Password, Email, FirstName, LastName, FullName, Status, CreatedDate) VALUES(1, 'admin','123456', 'khang.nguyen@banvien.com', 'Khang', 'Nguyen', 'Nguyen Nhu Khang', 1, TO_DATE('2017-02-11', 'yyyy-mm-dd'));
